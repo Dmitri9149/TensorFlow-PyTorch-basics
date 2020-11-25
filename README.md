@@ -1,0 +1,1 @@
+### Exercises and small projects for deeper understanding of TensorFlow and PyTorch 
